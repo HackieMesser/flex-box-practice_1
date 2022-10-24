@@ -10,3 +10,7 @@
 #flex-container > .raw-item {
     width: 5rem;
 } 
+order: 1;
+flex-direction: column;
+flex-wrap: wrap;
+justify-content: space-around;
